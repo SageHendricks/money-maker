@@ -27,6 +27,8 @@ namespace money_maker
             Console.WriteLine("Silver Coins: " + Convert.ToString(silverCoins));
             Console.WriteLine("Bronze Coins: " + Convert.ToString(remainder));
             Console.ReadKey();
+            Console.ReadKey();
+            Console.ReadKey();
         }
     }
 }
